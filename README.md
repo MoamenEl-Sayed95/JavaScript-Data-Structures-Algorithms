@@ -10,3 +10,4 @@
    * push
    * pop
    * unshift
+   * shift
