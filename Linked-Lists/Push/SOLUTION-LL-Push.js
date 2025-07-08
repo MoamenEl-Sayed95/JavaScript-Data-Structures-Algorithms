@@ -94,7 +94,7 @@ test();
 
 */
 
-const myLinkedList = new LinkedList(10); // عملت أول عنصر 10
-myLinkedList.push(20); // تضيف 20 وتطبع القائمة
-myLinkedList.push(30); // تضيف 30 وتطبع القائمة
-console.log(myLinkedList);
+// const myLinkedList = new LinkedList(10);
+// myLinkedList.push(20); 
+// myLinkedList.push(30);
+// console.log(myLinkedList);

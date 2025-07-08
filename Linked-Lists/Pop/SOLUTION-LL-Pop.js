@@ -111,12 +111,17 @@ function test() {
 
  test();
 
+ 
+ /*
+ EXPECTED OUTPUT:
+ ----------------
+ 2
+ 1
+ null
+ 
+ */
 
-/*
-    EXPECTED OUTPUT:
-    ----------------
-    2
-    1
-    null
-
-*/
+// const myLinkedList = new LinkedList(10);
+// myLinkedList.pop(20); 
+// myLinkedList.pop(30);
+// console.log(myLinkedList);
