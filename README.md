@@ -6,8 +6,9 @@
 
 3- Linked Lists
    * Big-O
-   * constructor
-   * push
-   * pop
-   * unshift
-   * shift
+   * Constructor
+   * Push
+   * Pop
+   * Unshift
+   * Shift
+   * Get
