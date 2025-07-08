@@ -130,8 +130,7 @@ function test() {
   }
 }
 
-// let myLinkedList = new LinkedList(2);
-// console.log(myLinkedList.shift());
+
 
 test();
 

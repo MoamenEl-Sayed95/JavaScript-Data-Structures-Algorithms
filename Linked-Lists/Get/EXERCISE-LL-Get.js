@@ -59,37 +59,76 @@ class LinkedList {
         this.length++;
         return this;
     }
+ 
+    pop() {
+        if (this.length === 0) return undefined;
+        let temp = this.head;
+        let pre = this.head;
+        while (temp.next) {
+            pre = temp;
+            temp = temp.next;
+        }
+        this.tail = pre;
+        this.tail.next = null;
+        this.length--;
+        if (this.length === 0) {
+            this.head = null;
+            this.tail = null;
+        }
+        return temp;
+    }
+ 
+    unshift(value) {
+        const newNode = new Node(value);
+        if (!this.head) {
+            this.head = newNode;
+            this.tail = newNode;
+        } else {
+            newNode.next = this.head;
+            this.head = newNode;
+        }
+        this.length++;
+        return this;
+    }
+ 
+    shift() {
+        if (this.length === 0) return undefined;
+        let temp = this.head;
+        this.head = this.head.next;
+        this.length--;
+        if (this.length === 0) {
+            this.tail = null;
+        }
+        temp.next = null;
+        return temp;
+    }
+ 
+	/// WRITE GET METHOD HERE ///
+	//                         //
+	//                         //
+	//                         //
+	//                         //
+	/////////////////////////////
 
-}
+ }
  
 
-function test() {
-    let myLinkedList = new LinkedList(1);
-    myLinkedList.makeEmpty();
+ function test() {
+    let myLinkedList = new LinkedList(0);
     myLinkedList.push(1);
     myLinkedList.push(2);
-    
-    
-    myLinkedList.getHead();
-    myLinkedList.getTail();
-    myLinkedList.getLength();
-    console.log("\nLinked List:");
-    myLinkedList.printList();
-}
+    myLinkedList.push(3);
+
+    console.log(myLinkedList.get(3).value);
+ }
 
 
-test();
+ test();
 
-
+ 
 /*
     EXPECTED OUTPUT:
     ----------------
-    Head: 1
-    Tail: 2
-    Length: 2
-
-    Linked List:
-    1
-    2
+    3
 
 */

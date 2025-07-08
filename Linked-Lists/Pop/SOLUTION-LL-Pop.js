@@ -105,10 +105,7 @@ function test() {
   }
 }
 
-// const myLinkedList = new LinkedList(10);
-// myLinkedList.pop(20);
-// myLinkedList.pop(30);
-// console.log(myLinkedList);
+
 
 test();
 
