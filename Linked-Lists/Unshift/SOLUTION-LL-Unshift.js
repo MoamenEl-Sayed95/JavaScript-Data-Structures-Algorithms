@@ -119,6 +119,10 @@ function test() {
     myLinkedList.printList();
 }
 
+// const myLinkedList = new LinkedList(10);
+// myLinkedList.unshift(20); 
+// myLinkedList.unshift(30);
+// console.log(myLinkedList);
 
 test();
 
@@ -148,9 +152,3 @@ test();
     3
 
 */
-
-// const myLinkedList = new LinkedList(10);
-// myLinkedList.unshift(20); 
-// myLinkedList.unshift(30);
-// console.log(myLinkedList);
- 
