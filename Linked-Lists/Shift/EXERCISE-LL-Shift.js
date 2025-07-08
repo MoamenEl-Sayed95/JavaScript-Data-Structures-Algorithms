@@ -77,46 +77,61 @@ class LinkedList {
     }
     return temp;
   }
+
+  unshift(value) {
+    const newNode = new Node(value);
+    if (!this.head) {
+      this.head = newNode;
+      this.tail = newNode;
+    } else {
+      newNode.next = this.head;
+      this.head = newNode;
+    }
+    this.length++;
+    return this;
+  }
+
+  /// WRITE SHIFT METHOD HERE ///
+  //                           //
+  //                           //
+  //                           //
+  //                           //
+  ///////////////////////////////
 }
 
 function test() {
-  let myLinkedList = new LinkedList(1);
-  myLinkedList.push(2);
+  let myLinkedList = new LinkedList(2);
+  myLinkedList.push(1);
 
   // (2) Items in LL - Returns 2 Node
   if (myLinkedList.length !== 0) {
-    console.log(myLinkedList.pop().value);
+    console.log(myLinkedList.shift().value);
   } else {
     console.log("null");
   }
 
   // (1) Item in LL - Returns 1 Node
   if (myLinkedList.length !== 0) {
-    console.log(myLinkedList.pop().value);
+    console.log(myLinkedList.shift().value);
   } else {
     console.log("null");
   }
 
   // (0) Items in LL - Returns null
   if (myLinkedList.length !== 0) {
-    console.log(myLinkedList.pop().value);
+    console.log(myLinkedList.shift().value);
   } else {
     console.log("null");
   }
 }
 
-// const myLinkedList = new LinkedList(10);
-// myLinkedList.pop(20);
-// myLinkedList.pop(30);
-// console.log(myLinkedList);
-
 test();
 
 /*
- EXPECTED OUTPUT:
- ----------------
- 2
- 1
- null
- 
- */
+    EXPECTED OUTPUT:
+    ----------------
+    2
+    1
+    null
+
+*/

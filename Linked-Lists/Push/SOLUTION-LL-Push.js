@@ -78,6 +78,11 @@ function test() {
 }
 
 
+// const myLinkedList = new LinkedList(10);
+// myLinkedList.push(20); 
+// myLinkedList.push(30);
+// console.log(myLinkedList);
+
 test();
 
 
@@ -93,8 +98,3 @@ test();
     2
 
 */
-
-// const myLinkedList = new LinkedList(10);
-// myLinkedList.push(20); 
-// myLinkedList.push(30);
-// console.log(myLinkedList);

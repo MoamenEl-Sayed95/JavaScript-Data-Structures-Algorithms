@@ -77,46 +77,69 @@ class LinkedList {
     }
     return temp;
   }
+
+  unshift(value) {
+    const newNode = new Node(value);
+    if (!this.head) {
+      this.head = newNode;
+      this.tail = newNode;
+    } else {
+      newNode.next = this.head;
+      this.head = newNode;
+    }
+    this.length++;
+    return this;
+  }
+
+  shift() {
+    if (this.length === 0) return undefined;
+    let temp = this.head;
+    this.head = this.head.next;
+    this.length--;
+    if (this.length === 0) {
+      this.tail = null;
+    }
+    temp.next = null;
+    return temp;
+  }
 }
 
 function test() {
-  let myLinkedList = new LinkedList(1);
-  myLinkedList.push(2);
+  let myLinkedList = new LinkedList(2);
+  myLinkedList.push(1);
 
   // (2) Items in LL - Returns 2 Node
   if (myLinkedList.length !== 0) {
-    console.log(myLinkedList.pop().value);
+    console.log(myLinkedList.shift().value);
   } else {
     console.log("null");
   }
 
   // (1) Item in LL - Returns 1 Node
   if (myLinkedList.length !== 0) {
-    console.log(myLinkedList.pop().value);
+    console.log(myLinkedList.shift().value);
   } else {
     console.log("null");
   }
 
   // (0) Items in LL - Returns null
   if (myLinkedList.length !== 0) {
-    console.log(myLinkedList.pop().value);
+    console.log(myLinkedList.shift().value);
   } else {
     console.log("null");
   }
 }
 
-// const myLinkedList = new LinkedList(10);
-// myLinkedList.pop(20);
-// myLinkedList.pop(30);
-// console.log(myLinkedList);
+// let myLinkedList = new LinkedList(2);
+// console.log(myLinkedList.shift());
 
 test();
 
 /*
- EXPECTED OUTPUT:
- ----------------
- 2
- 1
- null
- 
- */
+    EXPECTED OUTPUT:
+    ----------------
+    2
+    1
+    null
+
+*/
