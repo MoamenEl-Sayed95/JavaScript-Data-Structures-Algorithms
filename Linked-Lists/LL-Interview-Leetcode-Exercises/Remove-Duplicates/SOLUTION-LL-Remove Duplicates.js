@@ -52,6 +52,7 @@ class LinkedList {
   }
 
   // WRITE THE REMOVEDUPLICATES METHOD HERE //
+
   removeDuplicates() {
     if (!this.head) return;
 
