@@ -6,10 +6,15 @@ This is a collection of data structures and algorithms implemented in JavaScript
 2- Clasess-Pointers 
 
 3- Linked Lists
-   * Big-O
-   * Constructor
-   * Push
-   * Pop
-   * Unshift
-   * Shift
-   * Get
+   * LL-Big-O
+   * LL-Constructor
+   * LL-Push
+   * LL-Pop
+   * LL-Unshift
+   * LL-Shift
+   * LL-Get
+   * LL-Set
+   * LL-Insert
+   * LL-Remove
+   * LL-Reverse
+   * LL-Interview-Leetcode-Exercises
