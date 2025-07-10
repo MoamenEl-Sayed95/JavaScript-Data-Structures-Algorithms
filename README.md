@@ -17,4 +17,4 @@ This is a collection of data structures and algorithms implemented in JavaScript
    * LL-Insert
    * LL-Remove
    * LL-Reverse
-   * LL-Interview-Leetcode-Exercises
+   * LL-ILE => LL-Interview-Leetcode-Exercises
