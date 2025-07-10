@@ -1,4 +1,4 @@
-﻿# (JavaScript) - Data_Structures and Algorithms + LEETCODE_Exercises
+﻿# JavaScript-Data_Structures-and-Algorithms-LEETCODE-Exercises
 This is a collection of data structures and algorithms implemented in JavaScript.
  
 1- Big-O
