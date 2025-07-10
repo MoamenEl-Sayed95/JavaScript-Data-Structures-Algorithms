@@ -3,8 +3,10 @@ This is a collection of data structures and algorithms implemented in JavaScript
  
 1- Big-O
    * Cheat
+
 2- Clasess-Pointers 
    * Cookie
+   
 3- Linked Lists
    * LL-Big-O
    * LL-Constructor
