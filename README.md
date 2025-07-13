@@ -20,3 +20,12 @@ This is a collection of data structures and algorithms implemented in JavaScript
    * LL-Remove
    * LL-Reverse
    * LL-ILE => LL-Interview-Leetcode-Exercises
+
+4- Doubly Linked Lists
+   * DLL-Constructor
+   * DLL-Push
+   * DLL-Pop
+   * DLL-Unshift
+   * DLL-Shift
+   * DLL-Get
+   * DLL-Set
