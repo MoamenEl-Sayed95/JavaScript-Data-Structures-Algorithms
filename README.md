@@ -54,25 +54,26 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
 4- Doubly Linked Lists:
 
-   * DLL-Constructor
+   ### 📘 Core Methods
+      * DLL-Constructor
 
-   * DLL-Push
+      * DLL-Push
 
-   * DLL-Pop
+      * DLL-Pop
 
-   * DLL-Unshift
+      * DLL-Unshift
 
-   * DLL-Shift
+      * DLL-Shift
 
-   * DLL-Get
+      * DLL-Get
 
-   * DLL-Set
+      * DLL-Set
 
-   * DLL-Insert
+      * DLL-Insert
 
-   * DLL-Remove
+      * DLL-Remove
 
-   * DLL-Reverse
+      * DLL-Reverse
 
    ### 💡 DLL-ILE => DLL-Interview-Leetcode-Exercises:
    
@@ -88,7 +89,7 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
 5- Stacks & Queues:
 
-   * Stacks: 
+   ### 🥞 Stacks: 
 
       * Constructor
 
@@ -96,7 +97,7 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
       * Pop
 
-   * Queues:
+   ### 📥 Queues:
 
       * Constructor
 
