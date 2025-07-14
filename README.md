@@ -1,13 +1,17 @@
 ﻿# JavaScript-Data-Structures-and-Algorithms-LEETCODE-Exercises
+
 This is a collection of data structures and algorithms implemented in JavaScript.
  
-1- Big-O
+1- Big-O:
+
    * Cheat
 
 2- Clasess-Pointers:
+
    * Cookie
    
 3- Singly Linked Lists:
+
    * LL-Big-O
    * LL-Constructor
    * LL-Push
@@ -22,6 +26,7 @@ This is a collection of data structures and algorithms implemented in JavaScript
    * LL-ILE => LL-Interview-Leetcode-Exercises
 
 4- Doubly Linked Lists:
+
    * DLL-Constructor
    * DLL-Push
    * DLL-Pop
@@ -35,12 +40,15 @@ This is a collection of data structures and algorithms implemented in JavaScript
    * DLL-ILE => DLL-Interview-Leetcode-Exercises
 
 5- Stacks & Queues:
+
    * Stacks: 
       * Constructor
       * Push
       * Pop
+
    * Queues:
       * Constructor
       * Enqueue
       * Dequeue
+
    * S&Q-ILE => S&Q-Interview-Leetcode-Exercises
