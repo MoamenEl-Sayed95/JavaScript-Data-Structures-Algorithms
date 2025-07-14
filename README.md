@@ -17,27 +17,27 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
    ### 📘 Core Methods:
 
-      - 📊 LL-Big-O
+      * 📊 LL-Big-O
 
-      - 🏗️ LL-Constructor
+      * 🏗️ LL-Constructor
 
-      - ➕ LL-Push
+      * ➕ LL-Push
 
-      - ➖ LL-Pop
+      * ➖ LL-Pop
 
-      - ⬆️ LL-Unshift
+      * ⬆️ LL-Unshift
 
-      - ⬇️ LL-Shift
+      * ⬇️ LL-Shift
 
-      - 🔍 LL-Get
+      * 🔍 LL-Get
 
-      - 📝 LL-Set
+      * 📝 LL-Set
 
-      - 📥 LL-Insert
+      * 📥 LL-Insert
 
-      - ❌ LL-Remove
+      * ❌ LL-Remove
 
-      - 🔁 LL-Reverse
+      * 🔁 LL-Reverse
       
 
    ### 💡 LL-ILE => LL-Interview-Leetcode-Exercises:
@@ -62,25 +62,25 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
    ### 📘 Core Methods:
 
-      * DLL-Constructor
+      * 🏗️ DLL-Constructor
 
-      * DLL-Push
+      * ➕ DLL-Push
 
-      * DLL-Pop
+      * ➖ DLL-Pop
 
-      * DLL-Unshift
+      * ⬆️ DLL-Unshift
 
-      * DLL-Shift
+      * ⬇️ DLL-Shift
 
-      * DLL-Get
+      * 🔍 DLL-Get
 
-      * DLL-Set
+      * 📝 DLL-Set
 
-      * DLL-Insert
+      * 📥 DLL-Insert
 
-      * DLL-Remove
+      * ❌ DLL-Remove
 
-      * DLL-Reverse
+      * 🔁 DLL-Reverse
 
    ### 💡 DLL-ILE => DLL-Interview-Leetcode-Exercises:
    
@@ -98,19 +98,20 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
    ### 🥞 Stacks: 
 
-      * Constructor
+      - 🏗️ Constructor
 
-      * Push
+      - ➕ Push
 
-      * Pop
+      - ➖ Pop
 
    ### 📥 Queues:
 
-      * Constructor
+      - 🏗️ Constructor
 
-      * Enqueue
+      - 📥 Enqueue
+      
+      - 📤 Dequeue
 
-      * Dequeue
 
    ### 💡 S&Q-ILE => S&Q-Interview-Leetcode-Exercises:
    
