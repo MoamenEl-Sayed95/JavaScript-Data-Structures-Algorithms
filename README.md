@@ -29,3 +29,7 @@ This is a collection of data structures and algorithms implemented in JavaScript
    * DLL-Shift
    * DLL-Get
    * DLL-Set
+   * DLL-Insert
+   * DLL-Remove
+   * DLL-Reverse
+   * DLL-ILE => DLL-Interview-Leetcode-Exercises
