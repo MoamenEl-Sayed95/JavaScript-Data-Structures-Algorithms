@@ -4,10 +4,10 @@ This is a collection of data structures and algorithms implemented in JavaScript
 1- Big-O
    * Cheat
 
-2- Clasess-Pointers 
+2- Clasess-Pointers:
    * Cookie
    
-3- Linked Lists
+3- Singly Linked Lists:
    * LL-Big-O
    * LL-Constructor
    * LL-Push
@@ -21,7 +21,7 @@ This is a collection of data structures and algorithms implemented in JavaScript
    * LL-Reverse
    * LL-ILE => LL-Interview-Leetcode-Exercises
 
-4- Doubly Linked Lists
+4- Doubly Linked Lists:
    * DLL-Constructor
    * DLL-Push
    * DLL-Pop
@@ -33,3 +33,7 @@ This is a collection of data structures and algorithms implemented in JavaScript
    * DLL-Remove
    * DLL-Reverse
    * DLL-ILE => DLL-Interview-Leetcode-Exercises
+
+5- Stacks & Queues:
+   * Constructor
+   * Push
