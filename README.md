@@ -2,53 +2,53 @@
 
 This is a collection of data structures and algorithms implemented in JavaScript.
  
-🗂️ Big-O:
+1- Big-O:
 
    * Cheat
 
-🗂️ Clasess-Pointers:
+2- Clasess-Pointers:
 
    * Cookie
    
-🗂️ Singly Linked Lists:
+3- Singly Linked Lists:
 
-   🗂️ LL-Big-O
-   🗂️ LL-Constructor
-   🗂️ LL-Push
-   🗂️ LL-Pop
-   🗂️ LL-Unshift
-   🗂️ LL-Shift
-   🗂️ LL-Get
-   🗂️ LL-Set
-   🗂️ LL-Insert
-   🗂️ LL-Remove
-   🗂️ LL-Reverse
-   🗂️ LL-ILE => LL-Interview-Leetcode-Exercises
+   * LL-Big-O
+   * LL-Constructor
+   * LL-Push
+   * LL-Pop
+   * LL-Unshift
+   * LL-Shift
+   * LL-Get
+   * LL-Set
+   * LL-Insert
+   * LL-Remove
+   * LL-Reverse
+   * LL-ILE => LL-Interview-Leetcode-Exercises
 
-🗂️ Doubly Linked Lists:
+4- Doubly Linked Lists:
 
-   🗂️ DLL-Constructor
-   🗂️ DLL-Push
-   🗂️ DLL-Pop
-   🗂️ DLL-Unshift
-   🗂️ DLL-Shift
-   🗂️ DLL-Get
-   🗂️ DLL-Set
-   🗂️ DLL-Insert
-   🗂️ DLL-Remove
-   🗂️ DLL-Reverse
-   🗂️ DLL-ILE => DLL-Interview-Leetcode-Exercises
+   * DLL-Constructor
+   * DLL-Push
+   * DLL-Pop
+   * DLL-Unshift
+   * DLL-Shift
+   * DLL-Get
+   * DLL-Set
+   * DLL-Insert
+   * DLL-Remove
+   * DLL-Reverse
+   * DLL-ILE => DLL-Interview-Leetcode-Exercises
 
-🗂️ Stacks & Queues:
+5- Stacks & Queues:
 
-   🗂️ Stacks: 
-      🗂️ Constructor
-      🗂️ Push
-      🗂️ Pop
+   * Stacks: 
+      * Constructor
+      * Push
+      * Pop
 
-   🗂️ Queues:
-      🗂️ Constructor
-      🗂️ Enqueue
-      🗂️ Dequeue
+   * Queues:
+      * Constructor
+      * Enqueue
+      * Dequeue
 
-   🗂️ S&Q-ILE => S&Q-Interview-Leetcode-Exercises
+   * S&Q-ILE => S&Q-Interview-Leetcode-Exercises
