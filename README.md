@@ -35,5 +35,12 @@ This is a collection of data structures and algorithms implemented in JavaScript
    * DLL-ILE => DLL-Interview-Leetcode-Exercises
 
 5- Stacks & Queues:
-   * Constructor
-   * Push
+   * Stacks: 
+      * Constructor
+      * Push
+      * Pop
+   * Queues:
+      * Constructor
+      * Enqueue
+      * Dequeue
+   * S&Q-ILE => S&Q-Interview-Leetcode-Exercises
