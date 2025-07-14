@@ -34,7 +34,7 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
    * LL-Reverse
 
-   * LL-ILE => LL-Interview-Leetcode-Exercises:
+   ### 💡 LL-ILE => LL-Interview-Leetcode-Exercises:
 
       * Binary-to-Decimal
 
@@ -74,7 +74,7 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
    * DLL-Reverse
 
-   * DLL-ILE => DLL-Interview-Leetcode-Exercises:
+   ### 💡 DLL-ILE => DLL-Interview-Leetcode-Exercises:
    
       * Palindrome-Checker
 
@@ -104,14 +104,14 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
       * Dequeue
 
-   * S&Q-ILE => S&Q-Interview-Leetcode-Exercises:
+   ### 💡 S&Q-ILE => S&Q-Interview-Leetcode-Exercises:
    
       *  Stack-Push-for-a-Stack-That-Uses-an-Array
 
       *  Stack-Pop-for-a-Stack-That-Uses-an-Array
 
       *  Stack-Reverse-String
-      
+
       *  Stack-Parentheses-Balanced
 
       *  Stack-Sort-Stack
