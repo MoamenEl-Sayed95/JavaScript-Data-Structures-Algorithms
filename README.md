@@ -110,6 +110,10 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
       *  Stack-Pop-for-a-Stack-That-Uses-an-Array
 
+      *  Stack-Reverse-String
+      
+      *  Stack-Parentheses-Balanced
+
       *  Stack-Sort-Stack
       
       *  Queue-Using-Stacks-Enqueue
