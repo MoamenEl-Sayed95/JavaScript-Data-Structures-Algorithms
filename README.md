@@ -5,39 +5,40 @@ Instructor - Scott Barrett
 
 This is a collection of data structures and algorithms implemented in JavaScript.
 
-1- Big-O:
+## 1. 📈 Big-O:
 
-   - Cheat
+   - 📄 Cheat Sheet
 
-2- Clasess-Pointers:
+## 2. 🧱 Classes & Pointers
 
-   - Cookie
+   - 🍪 Cookie
    
 3- Singly Linked Lists:
 
    ### 📘 Core Methods:
 
-      * LL-Big-O
+      - 📊 LL-Big-O
 
-      * LL-Constructor
+      - 🏗️ LL-Constructor
 
-      * LL-Push
+      - ➕ LL-Push
 
-      * LL-Pop
+      - ➖ LL-Pop
 
-      * LL-Unshift
+      - ⬆️ LL-Unshift
 
-      * LL-Shift
+      - ⬇️ LL-Shift
 
-      * LL-Get
+      - 🔍 LL-Get
 
-      * LL-Set
+      - 📝 LL-Set
 
-      * LL-Insert
+      - 📥 LL-Insert
 
-      * LL-Remove
+      - ❌ LL-Remove
 
-      * LL-Reverse
+      - 🔁 LL-Reverse
+      
 
    ### 💡 LL-ILE => LL-Interview-Leetcode-Exercises:
 
