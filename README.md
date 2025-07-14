@@ -1,9 +1,9 @@
 ﻿# JavaScript-Data-Structures-and-Algorithms-LEETCODE-Exercises
 
-This is a collection of data structures and algorithms implemented in JavaScript.
-
+Instructor - Scott Barrett
 ![JavaScript-Data-Structures-and-Algorithms](https://img-c.udemycdn.com/course/750x422/3406816_0ea7_10.jpg)
 
+This is a collection of data structures and algorithms implemented in JavaScript.
 
 1- Big-O:
 
