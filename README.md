@@ -106,4 +106,12 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
    * S&Q-ILE => S&Q-Interview-Leetcode-Exercises:
    
-      *
+      *  Stack-Push-for-a-Stack-That-Uses-an-Array
+
+      *  Stack-Pop-for-a-Stack-That-Uses-an-Array
+
+      *  Stack-Sort-Stack
+      
+      *  Queue-Using-Stacks-Enqueue
+
+      *  Queue-Using-Stacks-Dequeue
