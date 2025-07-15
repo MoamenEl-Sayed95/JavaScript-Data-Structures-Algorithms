@@ -1,6 +1,6 @@
-﻿# JavaScript-Data-Structures-and-Algorithms-LEETCODE-Exercises
+﻿# JavaScript-Data-Structures-and-Algorithms+Leetcode-Exercises
 
-![JavaScript-Data-Structures-and-Algorithms](https://img-c.udemycdn.com/course/750x422/3406816_0ea7_10.jpg)
+![JavaScript-Data-Structures-and-Algorithms+Leetcode-Exercises](https://img-c.udemycdn.com/course/750x422/3406816_0ea7_10.jpg)
 
   ## 👨‍🏫 Instructor - Scott Barrett
 
@@ -11,128 +11,128 @@
 
 ## 1. 📈 Big-O:
 
-   * 📄 Cheat Sheet
+   📄 Cheat Sheet
 
 
 ## 2. 🧱 Classes & Pointers:
 
-   * 🍪 Cookie
+   🍪 Cookie
 
    
 ## 3. Singly Linked Lists:
 
    ### 📘 Core Methods:
 
-      * 📊 LL-Big-O
+       📊 LL-Big-O
 
-      * 🏗️ LL-Constructor
+       🏗️ LL-Constructor
 
-      * ➕ LL-Push
+       ➕ LL-Push
 
-      * ➖ LL-Pop
+       ➖ LL-Pop
 
-      * ⬆️ LL-Unshift
+       ⬆️ LL-Unshift
 
-      * ⬇️ LL-Shift
+       ⬇️ LL-Shift
 
-      * 🔍 LL-Get
+       🔍 LL-Get
 
-      * 📝 LL-Set
+       📝 LL-Set
 
-      * 📥 LL-Insert
+       📥 LL-Insert
 
-      * ❌ LL-Remove
+       ❌ LL-Remove
 
-      * 🔁 LL-Reverse
+       🔁 LL-Reverse
       
 
    ### 💡 LL-ILE => LL-Interview-Leetcode-Exercises:
 
-      * 🔢 Binary-to-Decimal  
+       🔢 Binary-to-Decimal  
 
-      * 🎯 Find-Kth-node-From-End 
+       🎯 Find-Kth-node-From-End 
 
-      * ⚖️ Find-Middle-Node  
+       ⚖️ Find-Middle-Node  
 
-      * 🔁 Has-Loop  
+       🔁 Has-Loop  
 
-      * 🧩 Partition-List  
+       🧩 Partition-List  
 
-      * 🚫 Remove-Duplicates  
+       🚫 Remove-Duplicates  
 
-      * 🔄 Reverse-Between  
+       🔄 Reverse-Between  
 
-      * 🔃 Swap-Pairs  
+       🔃 Swap-Pairs  
 
 
 ## 4. Doubly Linked Lists:
 
    ### 📘 Core Methods:
 
-      * 🏗️ DLL-Constructor
+       🏗️ DLL-Constructor
 
-      * ➕ DLL-Push
+       ➕ DLL-Push
 
-      * ➖ DLL-Pop
+       ➖ DLL-Pop
 
-      * ⬆️ DLL-Unshift
+       ⬆️ DLL-Unshift
 
-      * ⬇️ DLL-Shift
+       ⬇️ DLL-Shift
 
-      * 🔍 DLL-Get
+       🔍 DLL-Get
 
-      * 📝 DLL-Set
+       📝 DLL-Set
 
-      * 📥 DLL-Insert
+       📥 DLL-Insert
 
-      * ❌ DLL-Remove
+       ❌ DLL-Remove
 
-      * 🔁 DLL-Reverse
+       🔁 DLL-Reverse
 
    ### 💡 DLL-ILE => DLL-Interview-Leetcode-Exercises:
    
-      * 🔍 Palindrome-Checker  
+       🔍 Palindrome-Checker  
 
-      * 🧩 Partition-List  
+       🧩 Partition-List  
 
-      * 🔁 Reverse  
+       🔁 Reverse  
 
-      * 🔄 Reverse-Between  
+       🔄 Reverse-Between  
 
-      * 🔃 Swap-Nodes-in-Pairs  
+       🔃 Swap-Nodes-in-Pairs  
 
 
 ## 5. Stacks & Queues:
 
    ### 🥞 Stacks: 
 
-      * 🏗️ Constructor
+       🏗️ Constructor
 
-      * ➕ Push
+       ➕ Push
 
-      * ➖ Pop
+       ➖ Pop
 
    ### 📥 Queues:
 
-      * 🏗️ Constructor
+       🏗️ Constructor
 
-      * 📥 Enqueue
+       📥 Enqueue
 
-      * 📤 Dequeue
+       📤 Dequeue
 
 
    ### 💡 S&Q-ILE => S&Q-Interview-Leetcode-Exercises:
 
-      * ➕ Stack-Push-for-a-Stack-That-Uses-an-Array  
+       ➕ Stack-Push-for-a-Stack-That-Uses-an-Array  
 
-      * ➖ Stack-Pop-for-a-Stack-That-Uses-an-Array 
+       ➖ Stack-Pop-for-a-Stack-That-Uses-an-Array 
 
-      * 🔁 Stack-Reverse-String  
+       🔁 Stack-Reverse-String  
 
-      * ⚖️ Stack-Parentheses-Balanced  
+       ⚖️ Stack-Parentheses-Balanced  
 
-      * 🧮 Stack-Sort-Stack  
+       🧮 Stack-Sort-Stack  
 
-      * 📥 Queue-Using-Stacks-Enqueue  
+       📥 Queue-Using-Stacks-Enqueue  
 
-      * 📤 Queue-Using-Stacks-Dequeue  
+       📤 Queue-Using-Stacks-Dequeue  
