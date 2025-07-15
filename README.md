@@ -4,6 +4,7 @@
 
    👨‍🏫 Instructor - Scott Barrett
 
+
 💻 This is a collection of data structures and algorithms implemented in JavaScript.
 
 
@@ -11,9 +12,11 @@
 
    - 📄 Cheat Sheet
 
+
 ## 2. 🧱 Classes & Pointers
 
    - 🍪 Cookie
+
    
 3- Singly Linked Lists:
 
