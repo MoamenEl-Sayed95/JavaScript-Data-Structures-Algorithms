@@ -1,7 +1,8 @@
 ﻿# JavaScript-Data-Structures-and-Algorithms-LEETCODE-Exercises
 
 ![JavaScript-Data-Structures-and-Algorithms](https://img-c.udemycdn.com/course/750x422/3406816_0ea7_10.jpg)
-👨‍🏫 Instructor - Scott Barrett
+
+   👨‍🏫 Instructor - Scott Barrett
 
 💻 This is a collection of data structures and algorithms implemented in JavaScript.
 
