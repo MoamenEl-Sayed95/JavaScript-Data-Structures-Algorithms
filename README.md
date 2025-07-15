@@ -154,4 +154,9 @@
 
         🧩 BST-Constructor
 
+        🔍 BST-Contains
+
         📥 BST-Insert
+
+***
+
