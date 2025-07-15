@@ -12,13 +12,13 @@
 
 ## 1. 📈 Big-O:
 
-   📄 Cheat Sheet
+   - 📄 Cheat Sheet
 
 ***
 
 ## 2. 🧱 Classes & Pointers:
 
-   🍪 Cookie
+   - 🍪 Cookie
 
 ***
    
