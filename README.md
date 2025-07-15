@@ -3,7 +3,8 @@
 Instructor - Scott Barrett
 ![JavaScript-Data-Structures-and-Algorithms](https://img-c.udemycdn.com/course/750x422/3406816_0ea7_10.jpg)
 
-This is a collection of data structures and algorithms implemented in JavaScript.
+> 📚 This is a collection of data structures and algorithms implemented in **JavaScript**.
+
 
 ## 1. 📈 Big-O:
 
@@ -42,21 +43,22 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
    ### 💡 LL-ILE => LL-Interview-Leetcode-Exercises:
 
-      * Binary-to-Decimal
+      * 🔢 Binary-to-Decimal  
 
-      * Find-Kth-node-From-End
+      * 🎯 Find-Kth-node-From-End 
 
-      * Find-Middle-Node
+      * ⚖️ Find-Middle-Node  
 
-      * Has-Loop
+      * 🔁 Has-Loop  
 
-      * Partition-List
+      * 🧩 Partition-List  
 
-      * Remove-Duplicates
+      * 🚫 Remove-Duplicates  
 
-      * Reverse-Between
+      * 🔄 Reverse-Between  
 
-      * Swap-Pairs
+      * 🔃 Swap-Pairs  
+
 
 4- Doubly Linked Lists:
 
@@ -84,15 +86,16 @@ This is a collection of data structures and algorithms implemented in JavaScript
 
    ### 💡 DLL-ILE => DLL-Interview-Leetcode-Exercises:
    
-      * Palindrome-Checker
+      * 🔍 Palindrome-Checker  
 
-      * Partition-List
+      * 🧩 Partition-List  
 
-      * Reverse
+      * 🔁 Reverse  
 
-      * Reverse-Between
+      * 🔄 Reverse-Between  
 
-      * Swap-Nodes-in-Pairs
+      * 🔃 Swap-Nodes-in-Pairs  
+
 
 5- Stacks & Queues:
 
@@ -109,22 +112,22 @@ This is a collection of data structures and algorithms implemented in JavaScript
       - 🏗️ Constructor
 
       - 📥 Enqueue
-      
+
       - 📤 Dequeue
 
 
    ### 💡 S&Q-ILE => S&Q-Interview-Leetcode-Exercises:
-   
-      *  Stack-Push-for-a-Stack-That-Uses-an-Array
 
-      *  Stack-Pop-for-a-Stack-That-Uses-an-Array
+      * ➕ Stack-Push-for-a-Stack-That-Uses-an-Array  
 
-      *  Stack-Reverse-String
+      * ➖ Stack-Pop-for-a-Stack-That-Uses-an-Array 
 
-      *  Stack-Parentheses-Balanced
+      * 🔁 Stack-Reverse-String  
 
-      *  Stack-Sort-Stack
-      
-      *  Queue-Using-Stacks-Enqueue
+      * ⚖️ Stack-Parentheses-Balanced  
 
-      *  Queue-Using-Stacks-Dequeue
+      * 🧮 Stack-Sort-Stack  
+
+      * 📥 Queue-Using-Stacks-Enqueue  
+
+      * 📤 Queue-Using-Stacks-Dequeue  
