@@ -3,7 +3,7 @@
 ![JavaScript-Data-Structures-and-Algorithms+Leetcode-Exercises](https://img-c.udemycdn.com/course/750x422/3406816_0ea7_10.jpg)
 
   ## 👨‍🏫 Instructor - Scott Barrett
-  
+
 ***
 
 ### 💻 This is a collection of data structures and algorithms implemented in JavaScript.
@@ -14,11 +14,13 @@
 
    📄 Cheat Sheet
 
+***
 
 ## 2. 🧱 Classes & Pointers:
 
    🍪 Cookie
 
+***
    
 ## 3. Singly Linked Lists:
 
@@ -46,6 +48,7 @@
 
        🔁 LL-Reverse
       
+***
 
    ### 💡 LL-ILE => LL-Interview-Leetcode-Exercises:
 
@@ -65,6 +68,7 @@
 
        🔃 Swap-Pairs  
 
+***
 
 ## 4. Doubly Linked Lists:
 
@@ -90,6 +94,8 @@
 
        🔁 DLL-Reverse
 
+***
+
    ### 💡 DLL-ILE => DLL-Interview-Leetcode-Exercises:
    
        🔍 Palindrome-Checker  
@@ -102,6 +108,7 @@
 
        🔃 Swap-Nodes-in-Pairs  
 
+***
 
 ## 5. Stacks & Queues:
 
@@ -121,6 +128,7 @@
 
        📤 Dequeue
 
+***
 
    ### 💡 S&Q-ILE => S&Q-Interview-Leetcode-Exercises:
 
@@ -137,6 +145,8 @@
        📥 Queue-Using-Stacks-Enqueue  
 
        📤 Queue-Using-Stacks-Dequeue  
+
+***
 
 ## 6. Trees - <BST> Binary Search Trees:
 
