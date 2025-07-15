@@ -137,6 +137,8 @@
 
        📤 Queue-Using-Stacks-Dequeue  
 
-## 6. Trees - <BST> Binary Search Tree:
+## 6. Trees - <BST> Binary Search Trees:
 
         🧩 Constructor
+
+        📥 Insert
