@@ -136,3 +136,7 @@
        📥 Queue-Using-Stacks-Enqueue  
 
        📤 Queue-Using-Stacks-Dequeue  
+
+## 6. Trees - <BST> Binary Search Tree:
+
+        🧩 Constructor
