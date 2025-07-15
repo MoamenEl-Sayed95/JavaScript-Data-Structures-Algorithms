@@ -11,12 +11,12 @@
 
 ## 1. 📈 Big-O:
 
-   - 📄 Cheat Sheet
+   * 📄 Cheat Sheet
 
 
 ## 2. 🧱 Classes & Pointers:
 
-   - 🍪 Cookie
+   * 🍪 Cookie
 
    
 ## 3. Singly Linked Lists:
@@ -106,19 +106,19 @@
 
    ### 🥞 Stacks: 
 
-      - 🏗️ Constructor
+      * 🏗️ Constructor
 
-      - ➕ Push
+      * ➕ Push
 
-      - ➖ Pop
+      * ➖ Pop
 
    ### 📥 Queues:
 
-      - 🏗️ Constructor
+      * 🏗️ Constructor
 
-      - 📥 Enqueue
+      * 📥 Enqueue
 
-      - 📤 Dequeue
+      * 📤 Dequeue
 
 
    ### 💡 S&Q-ILE => S&Q-Interview-Leetcode-Exercises:
