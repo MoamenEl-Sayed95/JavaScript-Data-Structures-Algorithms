@@ -165,4 +165,5 @@
    ### 📘 Core Methods:
 
         🧩 HT-Constructor
-
+        
+        📝 HT-Set
