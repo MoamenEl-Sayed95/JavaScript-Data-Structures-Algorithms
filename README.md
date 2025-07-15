@@ -160,3 +160,9 @@
 
 ***
 
+## 7. Hash Tables - <HT>:
+
+   ### 📘 Core Methods:
+   
+        🧩 BST-Constructor
+
