@@ -164,5 +164,5 @@
 
    ### 📘 Core Methods:
 
-        🧩 BST-Constructor
+        🧩 HT-Constructor
 
