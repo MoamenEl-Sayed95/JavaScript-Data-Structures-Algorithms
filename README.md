@@ -139,6 +139,8 @@
 
 ## 6. Trees - <BST> Binary Search Trees:
 
+   ### 📘 Core Methods:
+
         🧩 Constructor
 
         📥 Insert
