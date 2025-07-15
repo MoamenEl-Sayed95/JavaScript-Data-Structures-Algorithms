@@ -5,7 +5,7 @@
   ## 👨‍🏫 Instructor - Scott Barrett
 
 
-## 💻 This is a collection of data structures and algorithms implemented in JavaScript.
+### 💻 This is a collection of data structures and algorithms implemented in JavaScript.
 
 
 ## 1. 📈 Big-O:
@@ -13,7 +13,7 @@
    - 📄 Cheat Sheet
 
 
-## 2. 🧱 Classes & Pointers
+## 2. 🧱 Classes & Pointers:
 
    - 🍪 Cookie
 
