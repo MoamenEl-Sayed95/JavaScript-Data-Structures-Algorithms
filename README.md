@@ -18,7 +18,7 @@
    - 🍪 Cookie
 
    
-3- Singly Linked Lists:
+## 3. Singly Linked Lists:
 
    ### 📘 Core Methods:
 
@@ -64,7 +64,7 @@
       * 🔃 Swap-Pairs  
 
 
-4- Doubly Linked Lists:
+## 4. Doubly Linked Lists:
 
    ### 📘 Core Methods:
 
@@ -101,7 +101,7 @@
       * 🔃 Swap-Nodes-in-Pairs  
 
 
-5- Stacks & Queues:
+## 5. Stacks & Queues:
 
    ### 🥞 Stacks: 
 
