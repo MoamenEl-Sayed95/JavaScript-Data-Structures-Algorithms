@@ -70,6 +70,7 @@ console.log("Input: 'a'");
 console.log("Output: ", hasUniqueChars("a"));
 console.log("---------------");
 
+
 // ---------------
 // Empty String
 // ---------------
