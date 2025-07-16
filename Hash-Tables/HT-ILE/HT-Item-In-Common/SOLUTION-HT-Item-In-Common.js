@@ -1,35 +1,34 @@
 function itemInCommon(arr1, arr2) {
-    const map = new Map();
+  const map = new Map();
 
-    for (let i of arr1) {
-        map.set(i, true);
+  for (let i of arr1) {
+    map.set(i, true);
+  }
+
+  for (let j of arr2) {
+    if (map.has(j)) {
+      return true;
     }
+  }
 
-    for (let j of arr2) {
-        if (map.has(j)) {
-            return true;
-        }
-    }
-
-    return false;
+  return false;
 }
 
 function itemInCommon(arr1, arr2) {
-    const obj = {};
+  const obj = {};
 
-    for (let i of arr1) {
-        obj[i] = true;
+  for (let i of arr1) {
+    obj[i] = true;
+  }
+
+  for (let j of arr2) {
+    if (obj[j]) {
+      return true;
     }
+  }
 
-    for (let j of arr2) {
-        if (obj[j]) {
-            return true;
-        }
-    }
-
-    return false;
+  return false;
 }
-
 
 // ---------------
 // One Common Item
