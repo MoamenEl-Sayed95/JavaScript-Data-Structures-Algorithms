@@ -187,8 +187,9 @@
 
         ➕ HT-Two-Sum  
         
-        🚮 SET-Remove Duplicates
-       
+        🚮 SET-Remove-Duplicates
+        
+        🔡 SET-Has-Unique-Chars
 
 
 
