@@ -2,29 +2,29 @@
 
 ![JavaScript-Data-Structures-and-Algorithms+Leetcode-Exercises](https://img-c.udemycdn.com/course/750x422/3406816_0ea7_10.jpg)
 
-  ## 👨‍🏫 Instructor - Scott Barrett
+## 👨‍🏫 Instructor - Scott Barrett
 
-***
+---
 
 ### 💻 This is a collection of data structures and algorithms implemented in JavaScript.
 
-***
+---
 
 ## 1. 📈 Big-O:
 
-   - 📄 Cheat Sheet
+- 📄 Cheat Sheet
 
-***
+---
 
 ## 2. 🧱 Classes & Pointers:
 
-   - 🍪 Cookie
+- 🍪 Cookie
 
-***
-   
+---
+
 ## 3. Singly Linked Lists:
 
-   ### 📘 Core Methods:
+### 📘 Core Methods:
 
        📊 LL-Big-O
 
@@ -47,32 +47,33 @@
        ❌ LL-Remove
 
        🔁 LL-Reverse
-      
-***
 
-   ### 💡 LL-ILE => LL-Interview-Leetcode-Exercises:
 
-       🔢 Binary-to-Decimal  
+---
 
-       🎯 Find-Kth-node-From-End 
+### 💡 LL-ILE => LL-Interview-Leetcode-Exercises:
 
-       ⚖️ Find-Middle-Node  
+       🔢 Binary-to-Decimal
 
-       🔁 Has-Loop  
+       🎯 Find-Kth-node-From-End
 
-       🧩 Partition-List  
+       ⚖️ Find-Middle-Node
 
-       🚫 Remove-Duplicates  
+       🔁 Has-Loop
 
-       🔄 Reverse-Between  
+       🧩 Partition-List
 
-       🔃 Swap-Pairs  
+       🚫 Remove-Duplicates
 
-***
+       🔄 Reverse-Between
+
+       🔃 Swap-Pairs
+
+---
 
 ## 4. Doubly Linked Lists:
 
-   ### 📘 Core Methods:
+### 📘 Core Methods:
 
        🏗️ DLL-Constructor
 
@@ -94,25 +95,25 @@
 
        🔁 DLL-Reverse
 
-***
+---
 
-   ### 💡 DLL-ILE => DLL-Interview-Leetcode-Exercises:
-   
-       🔍 Palindrome-Checker  
+### 💡 DLL-ILE => DLL-Interview-Leetcode-Exercises:
 
-       🧩 Partition-List  
+       🔍 Palindrome-Checker
 
-       🔁 Reverse  
+       🧩 Partition-List
 
-       🔄 Reverse-Between  
+       🔁 Reverse
 
-       🔃 Swap-Nodes-in-Pairs  
+       🔄 Reverse-Between
 
-***
+       🔃 Swap-Nodes-in-Pairs
+
+---
 
 ## 5. Stacks & Queues:
 
-   ### 🥞 Stacks: 
+### 🥞 Stacks:
 
        🏗️ Constructor
 
@@ -120,7 +121,7 @@
 
        ➖ Pop
 
-   ### 📥 Queues:
+### 📥 Queues:
 
        🏗️ Constructor
 
@@ -128,29 +129,29 @@
 
        📤 Dequeue
 
-***
+---
 
-   ### 💡 S&Q-ILE => S&Q-Interview-Leetcode-Exercises:
+### 💡 S&Q-ILE => S&Q-Interview-Leetcode-Exercises:
 
-       ➕ Stack-Push-for-a-Stack-That-Uses-an-Array  
+       ➕ Stack-Push-for-a-Stack-That-Uses-an-Array
 
-       ➖ Stack-Pop-for-a-Stack-That-Uses-an-Array 
+       ➖ Stack-Pop-for-a-Stack-That-Uses-an-Array
 
-       🔁 Stack-Reverse-String  
+       🔁 Stack-Reverse-String
 
-       ⚖️ Stack-Parentheses-Balanced  
+       ⚖️ Stack-Parentheses-Balanced
 
-       🧮 Stack-Sort-Stack  
+       🧮 Stack-Sort-Stack
 
-       📥 Queue-Using-Stacks-Enqueue  
+       📥 Queue-Using-Stacks-Enqueue
 
-       📤 Queue-Using-Stacks-Dequeue  
+       📤 Queue-Using-Stacks-Dequeue
 
-***
+---
 
 ## 6. Trees - <BST> Binary Search Trees:
 
-   ### 📘 Core Methods:
+### 📘 Core Methods:
 
         🧩 BST-Constructor
 
@@ -158,12 +159,18 @@
 
         📥 BST-Insert
 
-***
+---
 
 ## 7. Hash Tables - (HT):
 
-   ### 📘 Core Methods:
+### 📘 Core Methods:
 
         🧩 HT-Constructor
-        
+
         📝 HT-Set
+
+        🔍 HT-Get
+
+        🗝️ HT-Keys
+
+        ❓ HT-Interview-Question
