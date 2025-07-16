@@ -175,6 +175,22 @@
 
 ### 💡 HT-ILE => HT-Interview-Leetcode-Exercises:
 
-        🔁 HT-Find-Duplicates
+        📋 HT-Find-Duplicates  
 
-        🤝 HT-Item-In-Common
+        🔗 HT-Item-In-Common  
+
+        🕵️‍♂️ HT-First-Non-Repeating-Character 
+
+        🔤 HT-Group-Anagrams  
+
+        📈 HT-Subarray Sum  
+
+        ➕ HT-Two-Sum  
+        
+        🚮 SET-Remove Duplicates
+       
+
+
+
+       
+
