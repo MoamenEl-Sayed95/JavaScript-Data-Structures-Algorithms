@@ -196,9 +196,15 @@
         🔗 SET-Find-Pairs
 
         🔢 SET-Longest-Consecutive-Sequence
-        
 
+---
 
+***
 
-       
+## 8. Graphs:  
 
+### 📘 Core Methods:
+
+       🟣 Graph-Add-Vertex
+
+       🔁 Graph-Add-Edge
