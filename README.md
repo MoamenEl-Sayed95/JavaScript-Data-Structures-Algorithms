@@ -185,13 +185,18 @@
 
         🔤 HT-Group-Anagrams  
 
-        📈 HT-Subarray Sum  
+        📈 HT-Subarray-Sum  
 
         ➕ HT-Two-Sum  
         
         🚮 SET-Remove-Duplicates
         
         🔡 SET-Has-Unique-Chars
+
+        🔗 SET-Find-Pairs
+
+        🔢 SET-Longest-Consecutive-Sequence
+        
 
 
 
