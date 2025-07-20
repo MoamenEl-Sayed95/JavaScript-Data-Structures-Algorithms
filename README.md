@@ -206,3 +206,7 @@
        🟣 Graph-Add-Vertex
 
        🔁 Graph-Add-Edge
+
+       🗑️➖ Graph-Remove-Edge
+
+       🗑️🔘 Graph-Remove-Vertex
