@@ -12,14 +12,14 @@
 
 ```plaintext
 JavaScript-Data-Structures-and-Algorithms+Leetcode-Exercises/
-├─ 01-big-o/
+├─ 01-BIG-O/
 │  └─ cheat-sheet.pdf
 │
-├─ 02-classes-pointers/
+├─ 02-Classes-Pointers/
 │  └─ cookie.js
 │
-├─ 03-singly-linked-list/
-│  ├─ core/
+├─ 03-Singly-Linked-List/
+│  ├─ Core Methods/
 │  │  ├─ LL-Big-O.md
 │  │  ├─ LL-Constructor.js
 │  │  ├─ LL-Push.js
@@ -31,7 +31,7 @@ JavaScript-Data-Structures-and-Algorithms+Leetcode-Exercises/
 │  │  ├─ LL-Insert.js
 │  │  ├─ LL-Remove.js
 │  │  └─ LL-Reverse.js
-│  └─ leetcode/
+│  └─ Leetcode/
 │     ├─ BinaryToDecimal.js
 │     ├─ FindKthFromEnd.js
 │     ├─ FindMiddleNode.js
@@ -41,8 +41,8 @@ JavaScript-Data-Structures-and-Algorithms+Leetcode-Exercises/
 │     ├─ ReverseBetween.js
 │     └─ SwapPairs.js
 │
-├─ 04-doubly-linked-list/
-│  ├─ core/
+├─ 04-Doubly-Linked-List/
+│  ├─ Core Methods/
 │  │  ├─ DLL-Constructor.js
 │  │  ├─ DLL-Push.js
 │  │  ├─ DLL-Pop.js
@@ -53,23 +53,23 @@ JavaScript-Data-Structures-and-Algorithms+Leetcode-Exercises/
 │  │  ├─ DLL-Insert.js
 │  │  ├─ DLL-Remove.js
 │  │  └─ DLL-Reverse.js
-│  └─ leetcode/
+│  └─ Leetcode/
 │     ├─ PalindromeChecker.js
 │     ├─ PartitionList.js
 │     ├─ Reverse.js
 │     ├─ ReverseBetween.js
 │     └─ SwapNodesInPairs.js
 │
-├─ 05-stacks-queues/
-│  ├─ stacks/
+├─ 05-Stacks-Queues/
+│  ├─ Stacks/
 │  │  ├─ Constructor.js
 │  │  ├─ Push.js
 │  │  └─ Pop.js
-│  ├─ queues/
+│  ├─ Queues/
 │  │  ├─ Constructor.js
 │  │  ├─ Enqueue.js
 │  │  └─ Dequeue.js
-│  └─ leetcode/
+│  └─ Leetcode/
 │     ├─ StackPush.js
 │     ├─ StackPop.js
 │     ├─ StackReverseString.js
@@ -78,18 +78,18 @@ JavaScript-Data-Structures-and-Algorithms+Leetcode-Exercises/
 │     ├─ QueueUsingStacksEnqueue.js
 │     └─ QueueUsingStacksDequeue.js
 │
-├─ 06-bst-trees/
+├─ 06-BST-Trees/
 │  ├─ BST-Constructor.js
 │  ├─ BST-Contains.js
 │  └─ BST-Insert.js
 │
-├─ 07-hash-tables/
-│  ├─ core/
+├─ 07-Hash-Tables/
+│  ├─ Core Methods/
 │  │  ├─ HT-Constructor.js
 │  │  ├─ HT-Set.js
 │  │  ├─ HT-Get.js
 │  │  └─ HT-Keys.js
-│  └─ leetcode/
+│  └─ Leetcode/
 │     ├─ HT-Find-Duplicates.js
 │     ├─ HT-Item-In-Common.js
 │     ├─ HT-First-Non-Repeating.js
@@ -101,7 +101,7 @@ JavaScript-Data-Structures-and-Algorithms+Leetcode-Exercises/
 │     ├─ SET-Find-Pairs.js
 │     └─ SET-Longest-Consecutive.js
 │
-├─ 08-graphs/
+├─ 08-Graphs/
 │  ├─ Graph-Add-Vertex.js
 │  ├─ Graph-Add-Edge.js
 │  ├─ Graph-Remove-Edge.js
