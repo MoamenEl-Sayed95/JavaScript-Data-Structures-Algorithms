@@ -10,203 +10,102 @@
 
 ---
 
-## 1. 📈 Big-O:
-
-- 📄 Cheat Sheet
-
----
-
-## 2. 🧱 Classes & Pointers:
-
-- 🍪 Cookie
-
----
-
-## 3. Singly Linked Lists:
-
-### 📘 Core Methods:
-
-       📊 LL-Big-O
-
-       🏗️ LL-Constructor
-
-       ➕ LL-Push
-
-       ➖ LL-Pop
-
-       ⬆️ LL-Unshift
-
-       ⬇️ LL-Shift
-
-       🔍 LL-Get
-
-       📝 LL-Set
-
-       📥 LL-Insert
-
-       ❌ LL-Remove
-
-       🔁 LL-Reverse
-
-
----
-
-### 💡 LL-ILE => LL-Interview-Leetcode-Exercises:
-
-       🔢 Binary-to-Decimal
-
-       🎯 Find-Kth-node-From-End
-
-       ⚖️ Find-Middle-Node
-
-       🔁 Has-Loop
-
-       🧩 Partition-List
-
-       🚫 Remove-Duplicates
-
-       🔄 Reverse-Between
-
-       🔃 Swap-Pairs
-
----
-
-## 4. Doubly Linked Lists:
-
-### 📘 Core Methods:
-
-       🏗️ DLL-Constructor
-
-       ➕ DLL-Push
-
-       ➖ DLL-Pop
-
-       ⬆️ DLL-Unshift
-
-       ⬇️ DLL-Shift
-
-       🔍 DLL-Get
-
-       📝 DLL-Set
-
-       📥 DLL-Insert
-
-       ❌ DLL-Remove
-
-       🔁 DLL-Reverse
-
----
-
-### 💡 DLL-ILE => DLL-Interview-Leetcode-Exercises:
-
-       🔍 Palindrome-Checker
-
-       🧩 Partition-List
-
-       🔁 Reverse
-
-       🔄 Reverse-Between
-
-       🔃 Swap-Nodes-in-Pairs
-
----
-
-## 5. Stacks & Queues:
-
-### 🥞 Stacks:
-
-       🏗️ Constructor
-
-       ➕ Push
-
-       ➖ Pop
-
-### 📥 Queues:
-
-       🏗️ Constructor
-
-       📥 Enqueue
-
-       📤 Dequeue
-
----
-
-### 💡 S&Q-ILE => S&Q-Interview-Leetcode-Exercises:
-
-       ➕ Stack-Push-for-a-Stack-That-Uses-an-Array
-
-       ➖ Stack-Pop-for-a-Stack-That-Uses-an-Array
-
-       🔁 Stack-Reverse-String
-
-       ⚖️ Stack-Parentheses-Balanced
-
-       🧮 Stack-Sort-Stack
-
-       📥 Queue-Using-Stacks-Enqueue
-
-       📤 Queue-Using-Stacks-Dequeue
-
----
-
-## 6. Trees - <BST> Binary Search Trees:
-
-### 📘 Core Methods:
-
-        🧩 BST-Constructor
-
-        🔍 BST-Contains
-
-        📥 BST-Insert
-
----
-
-## 7. Hash Tables - (HT):
-
-### 📘 Core Methods:
-
-        🧩 HT-Constructor
-
-        📝 HT-Set
-
-        🔍 HT-Get
-
-        🗝️ HT-Keys
-
-***
-
-### 💡 HT-ILE => HT-Interview-Leetcode-Exercises:
-
-        📋 HT-Find-Duplicates  
-
-        🔗 HT-Item-In-Common  
-
-        🕵️‍♂️ HT-First-Non-Repeating-Character 
-
-        🔤 HT-Group-Anagrams  
-
-        📈 HT-Subarray-Sum  
-
-        ➕ HT-Two-Sum  
-        
-        🚮 SET-Remove-Duplicates
-        
-        🔡 SET-Has-Unique-Chars
-
-        🔗 SET-Find-Pairs
-
-        🔢 SET-Longest-Consecutive-Sequence
-
-***
-
-## 8. Graphs:  
-
-### 📘 Core Methods:
-
-       🟣 Graph-Add-Vertex
-
-       🔁 Graph-Add-Edge
-
-       🗑️➖ Graph-Remove-Edge
-
-       🗑️🔘 Graph-Remove-Vertex
+```plaintext
+JavaScript-Data-Structures-and-Algorithms+Leetcode-Exercises/
+├─ 01-big-o/
+│  └─ cheat-sheet.pdf
+│
+├─ 02-classes-pointers/
+│  └─ cookie.js
+│
+├─ 03-singly-linked-list/
+│  ├─ core/
+│  │  ├─ LL-Big-O.md
+│  │  ├─ LL-Constructor.js
+│  │  ├─ LL-Push.js
+│  │  ├─ LL-Pop.js
+│  │  ├─ LL-Unshift.js
+│  │  ├─ LL-Shift.js
+│  │  ├─ LL-Get.js
+│  │  ├─ LL-Set.js
+│  │  ├─ LL-Insert.js
+│  │  ├─ LL-Remove.js
+│  │  └─ LL-Reverse.js
+│  └─ leetcode/
+│     ├─ BinaryToDecimal.js
+│     ├─ FindKthFromEnd.js
+│     ├─ FindMiddleNode.js
+│     ├─ HasLoop.js
+│     ├─ PartitionList.js
+│     ├─ RemoveDuplicates.js
+│     ├─ ReverseBetween.js
+│     └─ SwapPairs.js
+│
+├─ 04-doubly-linked-list/
+│  ├─ core/
+│  │  ├─ DLL-Constructor.js
+│  │  ├─ DLL-Push.js
+│  │  ├─ DLL-Pop.js
+│  │  ├─ DLL-Unshift.js
+│  │  ├─ DLL-Shift.js
+│  │  ├─ DLL-Get.js
+│  │  ├─ DLL-Set.js
+│  │  ├─ DLL-Insert.js
+│  │  ├─ DLL-Remove.js
+│  │  └─ DLL-Reverse.js
+│  └─ leetcode/
+│     ├─ PalindromeChecker.js
+│     ├─ PartitionList.js
+│     ├─ Reverse.js
+│     ├─ ReverseBetween.js
+│     └─ SwapNodesInPairs.js
+│
+├─ 05-stacks-queues/
+│  ├─ stacks/
+│  │  ├─ Constructor.js
+│  │  ├─ Push.js
+│  │  └─ Pop.js
+│  ├─ queues/
+│  │  ├─ Constructor.js
+│  │  ├─ Enqueue.js
+│  │  └─ Dequeue.js
+│  └─ leetcode/
+│     ├─ StackPush.js
+│     ├─ StackPop.js
+│     ├─ StackReverseString.js
+│     ├─ StackBalancedParentheses.js
+│     ├─ StackSort.js
+│     ├─ QueueUsingStacksEnqueue.js
+│     └─ QueueUsingStacksDequeue.js
+│
+├─ 06-bst-trees/
+│  ├─ BST-Constructor.js
+│  ├─ BST-Contains.js
+│  └─ BST-Insert.js
+│
+├─ 07-hash-tables/
+│  ├─ core/
+│  │  ├─ HT-Constructor.js
+│  │  ├─ HT-Set.js
+│  │  ├─ HT-Get.js
+│  │  └─ HT-Keys.js
+│  └─ leetcode/
+│     ├─ HT-Find-Duplicates.js
+│     ├─ HT-Item-In-Common.js
+│     ├─ HT-First-Non-Repeating.js
+│     ├─ HT-Group-Anagrams.js
+│     ├─ HT-Subarray-Sum.js
+│     ├─ HT-Two-Sum.js
+│     ├─ SET-Remove-Duplicates.js
+│     ├─ SET-Has-Unique-Chars.js
+│     ├─ SET-Find-Pairs.js
+│     └─ SET-Longest-Consecutive.js
+│
+├─ 08-graphs/
+│  ├─ Graph-Add-Vertex.js
+│  ├─ Graph-Add-Edge.js
+│  ├─ Graph-Remove-Edge.js
+│  └─ Graph-Remove-Vertex.js
+│
+└─ README.md
+```
